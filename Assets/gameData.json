@@ -1,0 +1,6 @@
+{
+    "gold": 10000,
+    "attack": 1.0,
+    "moveSpeed": 5.0,
+    "maxHp": 100.0
+}
